@@ -26,7 +26,7 @@ FRAMEWORK = -framework OpenGL -framework AppKit
 HEAD = includes/fdf.h includes/define.h includes/struct.h
 CFLAGS = -Wall -Werror -Wextra
 HARDFLAGS = -Wall -Werror -Wextra -fsanitize=address,undefined -g3 -g
-CC = gcc
+CC = clang
 
 all: $(NAME)
 
