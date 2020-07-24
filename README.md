@@ -2,7 +2,7 @@
 *Ce projet a pour but de représenter le maillage en fils de fer d'une map en 3D.*
 
 ### Projections
-Les différentes projections implémentés sont:
+Les différentes projections implémentées sont:
 * isométrique
 * parallèle
 * top-down
